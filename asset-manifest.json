@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redux-music-player/static/css/main.d1b05096.chunk.css",
+    "main.js": "/redux-music-player/static/js/main.3430099a.chunk.js",
+    "main.js.map": "/redux-music-player/static/js/main.3430099a.chunk.js.map",
+    "runtime-main.js": "/redux-music-player/static/js/runtime-main.df7b571f.js",
+    "runtime-main.js.map": "/redux-music-player/static/js/runtime-main.df7b571f.js.map",
+    "static/js/2.270e6612.chunk.js": "/redux-music-player/static/js/2.270e6612.chunk.js",
+    "static/js/2.270e6612.chunk.js.map": "/redux-music-player/static/js/2.270e6612.chunk.js.map",
+    "index.html": "/redux-music-player/index.html",
+    "precache-manifest.45cdef08942e6effab899560ce2a1599.js": "/redux-music-player/precache-manifest.45cdef08942e6effab899560ce2a1599.js",
+    "service-worker.js": "/redux-music-player/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/redux-music-player/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.270e6612.chunk.js.LICENSE.txt": "/redux-music-player/static/js/2.270e6612.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df7b571f.js",
+    "static/js/2.270e6612.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.3430099a.chunk.js"
+  ]
+}
